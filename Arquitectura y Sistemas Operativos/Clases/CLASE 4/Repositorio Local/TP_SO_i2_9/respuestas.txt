@@ -1,0 +1,2 @@
+ a- se puede actualizar el repositorio mediante el comando git pull
+b- se puede actualizar (en este caso a BETA dado que GAMMA esta ausente)

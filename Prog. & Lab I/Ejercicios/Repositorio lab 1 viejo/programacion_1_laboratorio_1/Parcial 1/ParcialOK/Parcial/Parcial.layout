@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+<<<<<<< HEAD:Parcial/Parcial/Parcial.layout
+	<File name="Fecha.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="39" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="marca.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="631" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="color.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="791" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="servicio.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1020" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="trabajo.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3787" topLine="113" />
+		</Cursor>
+	</File>
+	<File name="validaciones.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2589" topLine="43" />
+=======
+	<File name="validaciones.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2589" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="color.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="791" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="trabajo.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2528" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="marca.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="631" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="servicio.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1020" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="trabajo.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3787" topLine="113" />
+>>>>>>> 9c1086d4aeb2943a04496c352ee72da23e9d1ddc:Parcial1/Parcial/Parcial.layout
+		</Cursor>
+	</File>
+	<File name="auto.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4160" topLine="132" />
+		</Cursor>
+	</File>
+	<File name="servicio.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="942" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD:Parcial/Parcial/Parcial.layout
+	<File name="trabajo.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+=======
+	<File name="marca.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="664" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="auto.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+>>>>>>> 9c1086d4aeb2943a04496c352ee72da23e9d1ddc:Parcial1/Parcial/Parcial.layout
+		<Cursor>
+			<Cursor1 position="2528" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="validaciones.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="270" topLine="67" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD:Parcial/Parcial/Parcial.layout
+	<File name="marca.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="664" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="auto.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4160" topLine="132" />
+=======
+	<File name="validaciones.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="270" topLine="67" />
+>>>>>>> 9c1086d4aeb2943a04496c352ee72da23e9d1ddc:Parcial1/Parcial/Parcial.layout
+		</Cursor>
+	</File>
+	<File name="fecha.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="123" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD:Parcial/Parcial/Parcial.layout
+	<File name="auto.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3888" topLine="119" />
+=======
+	<File name="color.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="462" topLine="0" />
+>>>>>>> 9c1086d4aeb2943a04496c352ee72da23e9d1ddc:Parcial1/Parcial/Parcial.layout
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+<<<<<<< HEAD:Parcial/Parcial/Parcial.layout
+			<Cursor1 position="312" topLine="12" />
+=======
+			<Cursor1 position="5692" topLine="201" />
+>>>>>>> 9c1086d4aeb2943a04496c352ee72da23e9d1ddc:Parcial1/Parcial/Parcial.layout
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

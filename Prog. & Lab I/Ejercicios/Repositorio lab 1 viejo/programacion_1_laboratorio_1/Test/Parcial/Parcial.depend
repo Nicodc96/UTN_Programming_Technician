@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570481424 source:c:\nicofacultad\programacion_1_laboratorio_1\useful functions\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576456867 source:c:\nicofacultad\programacion_1_laboratorio_1\test\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

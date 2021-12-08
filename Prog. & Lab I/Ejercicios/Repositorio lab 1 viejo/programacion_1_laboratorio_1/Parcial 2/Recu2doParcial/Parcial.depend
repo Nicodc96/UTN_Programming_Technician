@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1576070418 source:c:\users\alumno\desktop\parcial\parcial\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicleta.h"
+
+1576070657 c:\users\alumno\desktop\parcial\parcial\bicicleta.h
+
+1576074442 source:c:\users\alumno\desktop\parcial\parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+	"Bicicleta.h"
+	"Parser.h"
+	"Linkedlist.h"
+	"Controller.h"
+
+1576072286 c:\users\alumno\desktop\parcial\parcial\controller.h
+
+1576071279 source:c:\users\alumno\desktop\parcial\parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+
+1576069816 c:\users\alumno\desktop\parcial\parcial\linkedlist.h
+
+1576072349 source:c:\users\alumno\desktop\parcial\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicleta.h"
+	"time.h"
+	"Linkedlist.h"
+	"Controller.h"
+
+1576066032 source:c:\users\alumno\desktop\parcial\parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Parser.h"
+	"Linkedlist.h"
+	"Bicicleta.h"
+
+1576066087 c:\users\alumno\desktop\parcial\parcial\parser.h
+	"Linkedlist.h"
+
