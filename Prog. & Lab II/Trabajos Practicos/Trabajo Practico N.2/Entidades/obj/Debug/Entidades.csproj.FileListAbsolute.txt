@@ -1,0 +1,25 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\Users\Nicolas\Downloads\TP-02-Cascara.r2\Trabajo Práctico N.2\Entidades\bin\Debug\Entidades.dll
+D:\Users\Nicolas\Downloads\TP-02-Cascara.r2\Trabajo Práctico N.2\Entidades\bin\Debug\Entidades.pdb
+D:\Users\Nicolas\Downloads\TP-02-Cascara.r2\Trabajo Práctico N.2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Users\Nicolas\Downloads\TP-02-Cascara.r2\Trabajo Práctico N.2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Users\Nicolas\Downloads\TP-02-Cascara.r2\Trabajo Práctico N.2\Entidades\obj\Debug\Entidades.dll
+D:\Users\Nicolas\Downloads\TP-02-Cascara.r2\Trabajo Práctico N.2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nicolas\Desktop\Mis repositorios\tp_laboratorio_2\Trabajo Practico N.2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nicolas\Desktop\Mis repositorios\tp_laboratorio_2\Trabajo Practico N.2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nicolas\Desktop\Mis repositorios\tp_laboratorio_2\Trabajo Practico N.2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\Mis repositorios\tp_laboratorio_2\Trabajo Practico N.2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\Mis repositorios\tp_laboratorio_2\Trabajo Practico N.2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nicolas\Desktop\Mis repositorios\tp_laboratorio_2\Trabajo Practico N.2\Entidades\obj\Debug\Entidades.pdb

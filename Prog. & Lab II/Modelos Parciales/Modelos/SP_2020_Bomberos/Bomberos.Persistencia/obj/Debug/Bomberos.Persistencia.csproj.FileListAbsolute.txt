@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Persistencia\bin\Debug\Bomberos.Persistencia.dll
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Persistencia\bin\Debug\Bomberos.Persistencia.pdb
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Persistencia\obj\Debug\Bomberos.Persistencia.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Persistencia\obj\Debug\Bomberos.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Persistencia\obj\Debug\Bomberos.Persistencia.dll
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Persistencia\obj\Debug\Bomberos.Persistencia.pdb

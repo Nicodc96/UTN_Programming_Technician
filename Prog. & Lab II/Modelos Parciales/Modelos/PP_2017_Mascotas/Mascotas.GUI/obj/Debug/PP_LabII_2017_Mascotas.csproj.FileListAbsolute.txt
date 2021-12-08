@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\bin\Debug\PP_LabII_2017_Mascotas.exe.config
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\bin\Debug\PP_LabII_2017_Mascotas.exe
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\bin\Debug\PP_LabII_2017_Mascotas.pdb
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\obj\Debug\PP_LabII_2017_Mascotas.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\obj\Debug\PP_LabII_2017_Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\obj\Debug\PP_LabII_2017_Mascotas.csproj.CopyComplete
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\obj\Debug\PP_LabII_2017_Mascotas.exe
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.GUI\obj\Debug\PP_LabII_2017_Mascotas.pdb

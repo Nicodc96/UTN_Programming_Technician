@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600875708 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 9\ejercicioextra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

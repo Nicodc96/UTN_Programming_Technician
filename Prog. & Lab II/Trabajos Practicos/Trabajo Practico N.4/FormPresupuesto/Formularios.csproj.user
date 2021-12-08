@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Clientes\frmAgregarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEstadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presupuestos\frmAsignarClienteAPresu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Productos\frmModificarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presupuestos\frmAgregarPresupuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Productos\frmAgregarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clientes\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmInformacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presupuestos\frmModAddComp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clientes\frmModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presupuestos\frmModificarPresupuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clientes\frmModPresuCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presupuestos\frmModRemComp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presupuestos\frmPresupuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Productos\frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

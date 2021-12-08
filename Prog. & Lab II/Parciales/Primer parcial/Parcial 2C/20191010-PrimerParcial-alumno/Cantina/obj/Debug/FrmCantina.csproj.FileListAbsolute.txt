@@ -1,0 +1,15 @@
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\bin\Debug\Cantina.exe.config
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\bin\Debug\Cantina.exe
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\bin\Debug\Cantina.pdb
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\bin\Debug\ControlesUsuario.dll
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\bin\Debug\Entidades.dll
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\bin\Debug\ControlesUsuario.pdb
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\bin\Debug\Entidades.pdb
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\Cantina.Properties.Resources.resources
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\FrmCantina.csproj.CopyComplete
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\Cantina.exe
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\Cantina.pdb
+D:\Descargas\20191010-PrimerParcial-alumno\20191010-PrimerParcial-alumno\Cantina\obj\Debug\CantinaNico.FrmCantina.resources

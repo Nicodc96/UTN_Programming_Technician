@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1601479109 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 10\abm1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcionesABM1.h"
+
+1601478529 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 10\abm1\funcionesabm1.h
+
+1601479268 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 10\abm1\funcionesabm1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesABM1.h"
+
+1601901938 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 11\abm1\fechas.c
+
+1601912059 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 11\abm1\funcionesabm1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fechas.h"
+	"funcionesABM1.h"
+
+1601902016 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 11\abm1\fechas.h
+
+1601911611 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 11\abm1\funcionesabm1.h
+	"fechas.h"
+	"deportes.h"
+
+1601910899 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 11\abm1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcionesABM1.h"
+	"deportes.h"
+	"fechas.h"
+
+1601910568 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 11\abm1\deportes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deportes.h"
+
+1601910501 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 11\abm1\deportes.h
+
+1601910568 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 12\abm1\deportes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deportes.h"
+
+1602074250 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 12\abm1\deportes.h
+
+1601901938 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 12\abm1\fechas.c
+
+1602075385 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 12\abm1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcionesABM1.h"
+	"deportes.h"
+	"fechas.h"
+
+1602082920 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 12\abm1\funcionesabm1.h
+	"fechas.h"
+	"deportes.h"
+
+1601902016 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 12\abm1\fechas.h
+
+1602087166 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 12\abm1\funcionesabm1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fechas.h"
+	"funcionesABM1.h"
+

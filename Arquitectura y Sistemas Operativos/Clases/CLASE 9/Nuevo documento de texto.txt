@@ -1,0 +1,28 @@
+446  git clone https://github.com/tomas28/TP_SO_i3_9
+447  cd TP_SO_i3_9/
+448  git checkout diaz
+449  cat /proc/cpuinfo > CPUGamma.txt
+450  git add .
+451  git push
+452  git push -u
+453  git push -u origin diaz
+454  git commit -m "GammaEdit"
+455  git push -u origin diaz
+466  git branch -a
+467  git checkout master
+468  git pull
+468  git checkout garcia
+469  git pull origin garcia
+470  ifconfig
+471  git status
+472  git add .
+473  git commit -m "Gamma Push"
+474  git config --global user.email "nikolai14brc@gmail.com"
+475  git config --global user.name "Nicolas Diaz"
+476  git commit -m "Gamma Push"
+477  git push origin garcia
+478  git pull
+479  git add .
+480  git status
+481  git commit -m "fix"
+482  git push origin garcia

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1606307270 source:c:\users\nicolas\desktop\proyectos 2do parcial\2do p\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606307220 c:\users\nicolas\desktop\proyectos 2do parcial\2do p\linkedlist.h
+
+1606311028 source:c:\users\nicolas\desktop\proyectos 2do parcial\2do p\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"funcionesAuxiliares.h"
+
+1606310357 source:c:\users\nicolas\desktop\proyectos 2do parcial\2do p\funcionesauxiliares.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"funcionesAuxiliares.h"
+
+1606310950 c:\users\nicolas\desktop\proyectos 2do parcial\2do p\funcionesauxiliares.h
+	"LinkedList.h"
+

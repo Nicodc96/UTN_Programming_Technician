@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603843821 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 13 lunes\punteroestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1601479109 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 10\abm1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcionesABM1.h"
+
+1601478529 e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 10\abm1\funcionesabm1.h
+
+1601479268 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 10\abm1\funcionesabm1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funcionesABM1.h"
+

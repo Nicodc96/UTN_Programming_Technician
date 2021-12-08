@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\bin\Debug\WindowsFormsAppTest.exe.config
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\bin\Debug\WindowsFormsAppTest.exe
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\bin\Debug\WindowsFormsAppTest.pdb
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\bin\Debug\EntidadesRPP.dll
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\bin\Debug\EntidadesRPP.pdb
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.FrmMedico.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.FrmMedicoEgresado.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.FrmPersonal.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.FrmPrincipal.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.Properties.Resources.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.csproj.CopyComplete
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.exe
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2021_Hospital\Hospital.GUI\obj\Debug\WindowsFormsAppTest.pdb

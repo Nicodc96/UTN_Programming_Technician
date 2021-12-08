@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\bin\Debug\ComiqueriaApp.exe
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\bin\Debug\ComiqueriaApp.pdb
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.FrmFactura.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.ModificarProductoForm.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.exe
+C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.GUI\obj\Debug\ComiqueriaApp.pdb

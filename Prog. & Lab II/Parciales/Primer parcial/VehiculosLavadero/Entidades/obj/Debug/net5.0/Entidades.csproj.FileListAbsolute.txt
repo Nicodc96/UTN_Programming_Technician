@@ -1,0 +1,11 @@
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+D:\Nicolas\source\repos\VehiculosLavadero\Entidades\obj\Debug\net5.0\Entidades.pdb

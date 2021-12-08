@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600270663 source:e:\usuarios\lautaro\facultad\programación - laboratorio i\cursada 2c2020\clase 4lab\cadenas1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,97 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblCuerpoQueEs.Text" xml:space="preserve">
+    <value>Presupuestos - Clientes, es una aplicación desarrollada
+por DC Diaz Computación con la finalidad de producir
+presupuestos que contendran productos electrónicos
+de computación y relacionados. Además, brinda acceso
+a la información de los clientes que se han registrado
+con la finalidad de solicitar un presupuesto o un precio
+de un componente específico.
+</value>
+  </data>
+  <data name="lblCuerpoFuncionalidad.Text" xml:space="preserve">
+    <value>- Presupuestos: Aquí podrás analizar los presupuestos creados
+y almacenados en la base de datos, así como también crear,
+modificar o eliminarlos. Cada presupuesto contará con una
+cantidad determinada de Productos con sus nombres y
+modelos detallados.
+- Clientes: Registro de las personas que han solicitado un
+presupuesto o solicitaron el valor de uno o más productos,
+quedando registrado para futuras ventas.
+- Productos: En esta sección se brinda información detallada
+de los productos que actualmente el mayorista ofrece a sus
+clientes, con fines de asesoramiento.
+- Estadísticas: Zona informativa que dará distintos tipos de
+detalles, comparaciones, promedios y listas de productos y/o
+clientes que han solicitado presupuestos.
+</value>
+  </data>
+  <data name="lblCuerpoQuienSoy.Text" xml:space="preserve">
+    <value>Mi nombre es Lautaro Díaz, y desarrollé esta aplicación
+con fines educativos y como trabajo práctico final para
+la materia Laboratorio de Computación II de la
+Universidad Técnológica Nacional, sede Avellaneda.
+Los objetivos de esta aplicación son el brindar información,
+agregar y quitar componentes, realizar comparaciones y
+análisis en tiempo real sin perder ningún dato al finalizar 
+la aplicación.</value>
+  </data>
+</root>

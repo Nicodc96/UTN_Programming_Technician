@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComponenteElectronico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ComponenteElectronico xsi:type="PlacaMadre">
+    <ID>1</ID>
+    <Marca>Gigabyte</Marca>
+    <Modelo>A520M-H</Modelo>
+    <Potencia>73.5</Potencia>
+    <Consumo>70</Consumo>
+    <Precio>167</Precio>
+    <Potenciable>false</Potenciable>
+    <TipoDeMother>Normal</TipoDeMother>
+    <Socket>AM4</Socket>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="PlacaMadre">
+    <ID>2</ID>
+    <Marca>Biostar</Marca>
+    <Modelo>A5320M</Modelo>
+    <Potencia>65.5</Potencia>
+    <Consumo>68</Consumo>
+    <Precio>115</Precio>
+    <Potenciable>false</Potenciable>
+    <TipoDeMother>Normal</TipoDeMother>
+    <Socket>AM4</Socket>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="PlacaMadre">
+    <ID>3</ID>
+    <Marca>ASUS</Marca>
+    <Modelo>Prime B365M-A</Modelo>
+    <Potencia>70.1</Potencia>
+    <Consumo>74</Consumo>
+    <Precio>172</Precio>
+    <Potenciable>false</Potenciable>
+    <TipoDeMother>Normal</TipoDeMother>
+    <Socket>AM4</Socket>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="FuenteDePoder">
+    <ID>4</ID>
+    <Marca>Thermaltake</Marca>
+    <Modelo>Smart BX1</Modelo>
+    <Potencia>1000</Potencia>
+    <Consumo>30</Consumo>
+    <Precio>215</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoDeFuente>ATX</TipoDeFuente>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="FuenteDePoder">
+    <ID>5</ID>
+    <Marca>Sentey</Marca>
+    <Modelo>Solid Power SDP550</Modelo>
+    <Potencia>650</Potencia>
+    <Consumo>31</Consumo>
+    <Precio>86</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoDeFuente>ATX</TipoDeFuente>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="FuenteDePoder">
+    <ID>6</ID>
+    <Marca>CoolerMaster</Marca>
+    <Modelo>Master Elite v3</Modelo>
+    <Potencia>500</Potencia>
+    <Consumo>26</Consumo>
+    <Precio>78</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoDeFuente>ATX</TipoDeFuente>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Procesador">
+    <ID>7</ID>
+    <Marca>Intel_Core</Marca>
+    <Modelo>i9-10900X</Modelo>
+    <Potencia>4700</Potencia>
+    <Consumo>97</Consumo>
+    <Precio>587</Precio>
+    <Potenciable>true</Potenciable>
+    <Fabricante>AMD</Fabricante>
+    <Nucleos>Quad_Core</Nucleos>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Procesador">
+    <ID>8</ID>
+    <Marca>Ryzen</Marca>
+    <Modelo>5800X</Modelo>
+    <Potencia>4500</Potencia>
+    <Consumo>107</Consumo>
+    <Precio>542</Precio>
+    <Potenciable>true</Potenciable>
+    <Fabricante>AMD</Fabricante>
+    <Nucleos>Quad_Core</Nucleos>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Procesador">
+    <ID>9</ID>
+    <Marca>Ryzen</Marca>
+    <Modelo>4650G</Modelo>
+    <Potencia>3800</Potencia>
+    <Consumo>85</Consumo>
+    <Precio>378</Precio>
+    <Potenciable>true</Potenciable>
+    <Fabricante>AMD</Fabricante>
+    <Nucleos>Quad_Core</Nucleos>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Memoria">
+    <ID>10</ID>
+    <Marca>Corsair</Marca>
+    <Modelo>Vengeance LPX</Modelo>
+    <Potencia>3200</Potencia>
+    <Consumo>23</Consumo>
+    <Precio>70</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoMemoria>DIMM</TipoMemoria>
+    <Tecnologia>DDR4</Tecnologia>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Memoria">
+    <ID>11</ID>
+    <Marca>ADATA</Marca>
+    <Modelo>CL17 Single</Modelo>
+    <Potencia>2666</Potencia>
+    <Consumo>17</Consumo>
+    <Precio>43</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoMemoria>SODIMM</TipoMemoria>
+    <Tecnologia>DDR3</Tecnologia>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Memoria">
+    <ID>12</ID>
+    <Marca>HyperX</Marca>
+    <Modelo>Fury Black RGB</Modelo>
+    <Potencia>3000</Potencia>
+    <Consumo>20</Consumo>
+    <Precio>89</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoMemoria>DIMM</TipoMemoria>
+    <Tecnologia>DDR4</Tecnologia>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Memoria">
+    <ID>13</ID>
+    <Marca>HyperX</Marca>
+    <Modelo>Fury White HX</Modelo>
+    <Potencia>2666</Potencia>
+    <Consumo>18</Consumo>
+    <Precio>61</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoMemoria>SODIMM</TipoMemoria>
+    <Tecnologia>DDR3</Tecnologia>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Memoria">
+    <ID>14</ID>
+    <Marca>ADATA</Marca>
+    <Modelo>Spectrix XPG</Modelo>
+    <Potencia>3200</Potencia>
+    <Consumo>21</Consumo>
+    <Precio>57</Precio>
+    <Potenciable>true</Potenciable>
+    <TipoMemoria>DIMM</TipoMemoria>
+    <Tecnologia>DDR4</Tecnologia>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="PlacaDeVideo">
+    <ID>15</ID>
+    <Marca>EVGA</Marca>
+    <Modelo>RTX 3080ti</Modelo>
+    <Potencia>8096</Potencia>
+    <Consumo>750</Consumo>
+    <Precio>1500</Precio>
+    <Potenciable>true</Potenciable>
+    <Tipo>PlacaExterna</Tipo>
+    <MemoriaGrafica>10</MemoriaGrafica>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="PlacaDeVideo">
+    <ID>16</ID>
+    <Marca>Intel_Core</Marca>
+    <Modelo>HD 860 Graphics</Modelo>
+    <Potencia>3510</Potencia>
+    <Consumo>125</Consumo>
+    <Precio>15</Precio>
+    <Potenciable>false</Potenciable>
+    <Tipo>IntegradaCPU</Tipo>
+    <MemoriaGrafica>1</MemoriaGrafica>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="PlacaDeVideo">
+    <ID>17</ID>
+    <Marca>MSI</Marca>
+    <Modelo>RX 5700XT</Modelo>
+    <Potencia>7890</Potencia>
+    <Consumo>600</Consumo>
+    <Precio>1375</Precio>
+    <Potenciable>true</Potenciable>
+    <Tipo>PlacaExterna</Tipo>
+    <MemoriaGrafica>8</MemoriaGrafica>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Disco">
+    <ID>18</ID>
+    <Marca>Corsair</Marca>
+    <Modelo>MP400</Modelo>
+    <Potencia>0</Potencia>
+    <Consumo>34</Consumo>
+    <Precio>11</Precio>
+    <Potenciable>false</Potenciable>
+    <EspacioTotal>1024</EspacioTotal>
+    <Tipo>NVMeM_2</Tipo>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Disco">
+    <ID>19</ID>
+    <Marca>Seagate</Marca>
+    <Modelo>Barracuda</Modelo>
+    <Potencia>5400</Potencia>
+    <Consumo>5</Consumo>
+    <Precio>90</Precio>
+    <Potenciable>false</Potenciable>
+    <EspacioTotal>4096</EspacioTotal>
+    <Tipo>HDD</Tipo>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Disco">
+    <ID>20</ID>
+    <Marca>Gigabyte</Marca>
+    <Modelo>GFSTFS-31480</Modelo>
+    <Potencia>0</Potencia>
+    <Consumo>8</Consumo>
+    <Precio>86</Precio>
+    <Potenciable>false</Potenciable>
+    <EspacioTotal>480</EspacioTotal>
+    <Tipo>SSD</Tipo>
+  </ComponenteElectronico>
+  <ComponenteElectronico xsi:type="Disco">
+    <ID>21</ID>
+    <Marca>ADATA</Marca>
+    <Modelo>SU630</Modelo>
+    <Potencia>0</Potencia>
+    <Consumo>7</Consumo>
+    <Precio>39</Precio>
+    <Potenciable>false</Potenciable>
+    <EspacioTotal>256</EspacioTotal>
+    <Tipo>SSD</Tipo>
+  </ComponenteElectronico>
+</ArrayOfComponenteElectronico>
