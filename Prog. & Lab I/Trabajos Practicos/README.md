@@ -1,4 +1,5 @@
-# Repositorio de Trabajos Prácticos - Laboratorio 1
+# Viejo Repositorio de Trabajos Prácticos - Laboratorio 1
 
 Alumno: Lautaro Nicolás Díaz</br>
-DNI: 39468894
+Docente: Christian Baus
+Cursado durante: 1er Cuatrimestre 2021
