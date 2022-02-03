@@ -7,5 +7,6 @@
 <b>Name</b>: Lautaro N. Díaz</br>
 <b>DNI</b>: 39468894</br>
 <b>Legajo</b>: 109288</br>
+<b>Lenguaje utilizado</b>: C#</br>
 </br>
 
