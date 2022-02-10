@@ -1,6 +1,0 @@
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.Logic\bin\Debug\ComiqueriaLogic.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.Logic\bin\Debug\ComiqueriaLogic.pdb
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.Logic\obj\Debug\ComiqueriaLogic.csproj.AssemblyReference.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.Logic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.Logic\obj\Debug\ComiqueriaLogic.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2019_Comiqueria_V2\ComiqueriaV2.Logic\obj\Debug\ComiqueriaLogic.pdb

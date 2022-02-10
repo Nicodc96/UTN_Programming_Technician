@@ -1,6 +1,0 @@
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.Entidades\bin\Debug\Entidades.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.Entidades\bin\Debug\Entidades.pdb
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.Entidades\obj\Debug\Entidades.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\PP_2017_Mascotas\Mascotas.Entidades\obj\Debug\Entidades.pdb

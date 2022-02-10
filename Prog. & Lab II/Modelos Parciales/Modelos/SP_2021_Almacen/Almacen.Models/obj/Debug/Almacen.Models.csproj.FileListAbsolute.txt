@@ -1,6 +1,0 @@
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2021_Almacen\Almacen.Models\bin\Debug\Almacen.Models.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2021_Almacen\Almacen.Models\bin\Debug\Almacen.Models.pdb
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2021_Almacen\Almacen.Models\obj\Debug\Almacen.Models.csproj.AssemblyReference.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2021_Almacen\Almacen.Models\obj\Debug\Almacen.Models.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2021_Almacen\Almacen.Models\obj\Debug\Almacen.Models.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2021_Almacen\Almacen.Models\obj\Debug\Almacen.Models.pdb

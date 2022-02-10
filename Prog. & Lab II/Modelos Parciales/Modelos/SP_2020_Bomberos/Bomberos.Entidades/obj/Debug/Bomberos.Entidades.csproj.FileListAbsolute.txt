@@ -1,9 +1,0 @@
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\bin\Debug\Bomberos.Entidades.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\bin\Debug\Bomberos.Entidades.pdb
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\bin\Debug\Bomberos.Persistencia.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\bin\Debug\Bomberos.Persistencia.pdb
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\obj\Debug\Bomberos.Entidades.csproj.AssemblyReference.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\obj\Debug\Bomberos.Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\obj\Debug\Bomberos.Entidades.csproj.CopyComplete
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\obj\Debug\Bomberos.Entidades.dll
-C:\Users\Administrador\Desktop\C #\CSharp_UTN_LaboII-prd_CSsharp_UTN_LaboII\2_Modelos_Examenes\SP_2020_Bomberos\Bomberos.Entidades\obj\Debug\Bomberos.Entidades.pdb

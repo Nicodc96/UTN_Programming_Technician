@@ -1,6 +1,0 @@
-D:\Users\Nicolas\source\repos\PP_LABII_PRACTICA\Entidades\bin\Debug\Entidades.dll
-D:\Users\Nicolas\source\repos\PP_LABII_PRACTICA\Entidades\bin\Debug\Entidades.pdb
-D:\Users\Nicolas\source\repos\PP_LABII_PRACTICA\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-D:\Users\Nicolas\source\repos\PP_LABII_PRACTICA\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-D:\Users\Nicolas\source\repos\PP_LABII_PRACTICA\Entidades\obj\Debug\Entidades.dll
-D:\Users\Nicolas\source\repos\PP_LABII_PRACTICA\Entidades\obj\Debug\Entidades.pdb

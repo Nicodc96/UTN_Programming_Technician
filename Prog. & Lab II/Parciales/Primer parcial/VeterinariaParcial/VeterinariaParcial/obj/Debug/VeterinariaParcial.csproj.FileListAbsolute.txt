@@ -1,2 +1,0 @@
-D:\Users\Nicolas\source\repos\VeterinariaParcial\VeterinariaParcial\obj\Debug\VeterinariaParcial.csprojAssemblyReference.cache
-D:\Users\Nicolas\source\repos\VeterinariaParcial\VeterinariaParcial\obj\Debug\VeterinariaParcial.csproj.CoreCompileInputs.cache
