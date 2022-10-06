@@ -1,0 +1,42 @@
+[
+    {
+        "emailUsuario": "elMasPizzero@pizza.com",
+        "saborPizza": "Calabresa",
+        "tipoPizza": "piedra",
+        "cantidadPizza": 5,
+        "fechaVenta": "2022-10-4",
+        "id": 1
+    },
+    {
+        "emailUsuario": "juan_carlos_99@hotmail.com",
+        "saborPizza": "Napolitana",
+        "tipoPizza": "piedra",
+        "cantidadPizza": 3,
+        "fechaVenta": "2021-10-4",
+        "id": 2
+    },
+    {
+        "emailUsuario": "juan_carlos_99@hotmail.com",
+        "saborPizza": "Calabresa",
+        "tipoPizza": "piedra",
+        "cantidadPizza": 1,
+        "fechaVenta": "2022-10-4",
+        "id": 3
+    },
+    {
+        "emailUsuario": "juan_carlos_99@hotmail.com",
+        "saborPizza": "Calabresa",
+        "tipoPizza": "piedra",
+        "cantidadPizza": 5,
+        "fechaVenta": "2022-10-4",
+        "id": 4
+    },
+    {
+        "emailUsuario": "lukitas-comePizza@hotmail.com",
+        "saborPizza": "Muzarella",
+        "tipoPizza": "molde",
+        "cantidadPizza": 3,
+        "fechaVenta": "2022-10-6",
+        "id": 5
+    }
+]

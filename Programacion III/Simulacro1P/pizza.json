@@ -1,0 +1,51 @@
+[
+    {
+        "sabor": "Muzarella",
+        "precio": 105.95,
+        "tipo": "molde",
+        "cantidad": 15,
+        "id": 1
+    },
+    {
+        "sabor": "Napolitana",
+        "precio": 142.15,
+        "tipo": "piedra",
+        "cantidad": 45,
+        "id": 2
+    },
+    {
+        "sabor": "Calabresa",
+        "precio": 225.13,
+        "tipo": "piedra",
+        "cantidad": 75,
+        "id": 3
+    },
+    {
+        "sabor": "Fugazzeta",
+        "precio": 197.41,
+        "tipo": "molde",
+        "cantidad": 100,
+        "id": 4
+    },
+    {
+        "sabor": "Primavera",
+        "precio": 284.41,
+        "tipo": "molde",
+        "cantidad": 65,
+        "id": 5
+    },
+    {
+        "sabor": "Vegana",
+        "precio": 168.99,
+        "tipo": "piedra",
+        "cantidad": 100,
+        "id": 6
+    },
+    {
+        "sabor": "Hawaiana",
+        "precio": 728.44,
+        "tipo": "molde",
+        "cantidad": 141,
+        "id": 7
+    }
+]

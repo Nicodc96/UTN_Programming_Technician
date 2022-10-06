@@ -1,0 +1,412 @@
+{
+	"info": {
+		"_postman_id": "203c0010-2c88-4658-a90b-a7321df78ffc",
+		"name": "Simulacro1P",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11641824"
+	},
+	"item": [
+		{
+			"name": "CargarPizza",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php?peticion=pizzaCarga&sabor=Primavera&precio=284.41&tipo=molde&cantidad=65",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "peticion",
+							"value": "pizzaCarga"
+						},
+						{
+							"key": "sabor",
+							"value": "Primavera"
+						},
+						{
+							"key": "precio",
+							"value": "284.41"
+						},
+						{
+							"key": "tipo",
+							"value": "molde"
+						},
+						{
+							"key": "cantidad",
+							"value": "65"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar Pizzas",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "consultaPizza",
+							"value": "",
+							"type": "default"
+						},
+						{
+							"key": "sabor",
+							"value": "Napolitana",
+							"type": "default"
+						},
+						{
+							"key": "tipo",
+							"value": "piedra",
+							"type": "default"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Alta Venta",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "altaVenta",
+							"value": "",
+							"type": "default"
+						},
+						{
+							"key": "email",
+							"value": "enrique_pizza@outlook.com",
+							"type": "default"
+						},
+						{
+							"key": "sabor",
+							"value": "Hawaiana",
+							"type": "default"
+						},
+						{
+							"key": "tipo",
+							"value": "molde",
+							"type": "default"
+						},
+						{
+							"key": "cantidad",
+							"value": "4",
+							"type": "default"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Users/Nicolas/Downloads/esto_si_es_cine.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cantidad Pizzas Vendidas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php?peticion=cantidadPizzasVendidas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "peticion",
+							"value": "cantidadPizzasVendidas"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ventas entre dos fechas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php?peticion=ventasEntreFechas&fechaInicio=2021-1-1&fechaFin=2021-12-31",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "peticion",
+							"value": "ventasEntreFechas"
+						},
+						{
+							"key": "fechaInicio",
+							"value": "2021-1-1"
+						},
+						{
+							"key": "fechaFin",
+							"value": "2021-12-31"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ventas de un Usuario",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php?peticion=ventasDeUsuario&email=elMasPizzero@pizza.com",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "peticion",
+							"value": "ventasDeUsuario"
+						},
+						{
+							"key": "email",
+							"value": "elMasPizzero@pizza.com"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ventas por sabor",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php?peticion=ventasPorSabor&sabor=Calabresa",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "peticion",
+							"value": "ventasPorSabor"
+						},
+						{
+							"key": "sabor",
+							"value": "Calabresa"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Modificar Venta",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "modificarVenta",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "id_pedido",
+							"value": "5",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "lukitas.comePizza@hotmail.com",
+							"type": "text"
+						},
+						{
+							"key": "sabor",
+							"value": "Muzarella",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "molde",
+							"type": "text"
+						},
+						{
+							"key": "cantidad",
+							"value": "3",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cargar Pizza",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "cargarPizza",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "sabor",
+							"value": "Hawaiana",
+							"type": "text"
+						},
+						{
+							"key": "precio",
+							"value": "728.44",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "molde",
+							"type": "text"
+						},
+						{
+							"key": "cantidad",
+							"value": "145",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Users/Nicolas/Downloads/pizza-hawaiana.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar Venta",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "borrarVenta",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "id_pedido",
+							"value": "6",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/clase7/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"clase7",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
