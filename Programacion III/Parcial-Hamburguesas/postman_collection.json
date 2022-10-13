@@ -1,0 +1,557 @@
+{
+	"info": {
+		"_postman_id": "fa301ba2-5295-4570-a92c-b616ca67f446",
+		"name": "PracticaPP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11641824"
+	},
+	"item": [
+		{
+			"name": "Hamburguesa Carga",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "hamburguesaCarga",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "nombre",
+							"value": "Chicken Burger",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "doble",
+							"type": "text"
+						},
+						{
+							"key": "cantidad",
+							"value": "15",
+							"type": "text"
+						},
+						{
+							"key": "precio",
+							"value": "169.99",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Users/Nicolas/Downloads/chickenBurger.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar Hamburguesa",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "hamburguesaConsultar",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "nombre",
+							"value": "Chicken Burger",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "doble",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Alta Venta",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "altaVenta",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "Enrique-VII@outlook.com",
+							"type": "text"
+						},
+						{
+							"key": "nombre",
+							"value": "Cuarto de Libra",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "simple",
+							"type": "text"
+						},
+						{
+							"key": "cantidad",
+							"value": "5",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Users/Nicolas/Downloads/FWj3aWyXkAYBZdR.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ventas Fecha Particular",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php?consultaVentas=fechaParticular&fecha=2022-10-10",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "consultaVentas",
+							"value": "fechaParticular"
+						},
+						{
+							"key": "fecha",
+							"value": "2022-10-10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ventas Entre Fechas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php?consultaVentas=entreFechas&fechaInicio=2021-10-9&fechaFin=2021-10-11",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "consultaVentas",
+							"value": "entreFechas"
+						},
+						{
+							"key": "fechaInicio",
+							"value": "2021-10-9"
+						},
+						{
+							"key": "fechaFin",
+							"value": "2021-10-11"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ventas de Usuario",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php?consultaVentas=deUsuario&email=Juancito-55@gmail.com",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "consultaVentas",
+							"value": "deUsuario"
+						},
+						{
+							"key": "email",
+							"value": "Juancito-55@gmail.com"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ventas por Tipo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php?consultaVentas=porTipo&tipo=doble",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "consultaVentas",
+							"value": "porTipo"
+						},
+						{
+							"key": "tipo",
+							"value": "doble"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "modificarVenta",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "numero_pedido",
+							"value": "3",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "Jose-VI@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "nombre",
+							"value": "Chicken Burger",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "doble",
+							"type": "text"
+						},
+						{
+							"key": "cantidad",
+							"value": "4",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar Venta",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "borrarVenta",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "numero_pedido",
+							"value": "2",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Devoiver Hamburguesa",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "devolverHamburguesa",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "numero_pedido",
+							"value": "2",
+							"type": "text"
+						},
+						{
+							"key": "motivo",
+							"value": "Motivo3",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Users/Nicolas/Downloads/angry-man.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Alta Venta 2.0",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "altaVenta2",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "senior_paty22@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "nombre",
+							"value": "Cuarto de Libra",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "simple",
+							"type": "text"
+						},
+						{
+							"key": "cantidad",
+							"value": "10",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Users/Nicolas/Downloads/angry-man2.png"
+						},
+						{
+							"key": "id_cupon",
+							"value": "2",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Devoluciones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php?consultaDevoluciones=devoluciones",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "consultaDevoluciones",
+							"value": "devoluciones"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cupones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php?consultaDevoluciones=cupones",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "consultaDevoluciones",
+							"value": "cupones"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Todo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/p3/practicaPP/index.php?consultaDevoluciones=todo",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"p3",
+						"practicaPP",
+						"index.php"
+					],
+					"query": [
+						{
+							"key": "consultaDevoluciones",
+							"value": "todo"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
