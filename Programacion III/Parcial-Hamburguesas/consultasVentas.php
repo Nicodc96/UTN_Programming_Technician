@@ -19,8 +19,15 @@
     function VentasFechaParticular($fecha){
         return Info(Venta::VentaFechaEspecifica($fecha));
     }
-    function VentasEntreFechas($fechaInicio, $fechaFin){
-        return Info(Venta::VentasSegunFecha($fechaInicio, $fechaFin));
+    function VentasEntreFechas($fechaInicio, $fechaFin){   
+        $array =  Venta::VentasSegunFecha($fechaInicio, $fechaFin);
+        usort($array, "OrdenarPorNombre");   
+        return Info($array);
+    }
+    function OrdenarPorNombre($venta1, $venta2){
+        if (is_a($venta1, "Venta") && is_a($venta2, "Venta")){
+            return strcmp($venta1->GetNombre(), $venta2->GetNombre());
+        } else return false;
     }
     function VentasDeUsuario($email){
         return Info(Venta::VentasSegunUsuario($email));
