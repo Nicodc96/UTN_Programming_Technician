@@ -1,6 +1,6 @@
 <?php
     /*
-        Practica Primer Parcial - Programación III
+        Primer Parcial - Programación III
 
         Alumno: Díaz, Lautaro Nicolás
         División: 3°D
@@ -20,23 +20,23 @@
                     require "altaVenta.php";
                     echo AltaVenta::RealizarVenta();
                     break;
-                case "altaVenta2":
-                    require "altaVenta.php";
-                    echo AltaVenta::RealizarVentaCupon();
-                    break;
                 case "devolverHamburguesa":
                     require "devolverHamburguesa.php";
                     echo DevolverPedido::Devolver();
+                    break;
+                case "altaVenta2":
+                    require "altaVenta.php";
+                    echo AltaVenta::RealizarVentaCupon();
                     break;
             }
             break;
         case "GET":
             switch(key($_GET)){
                 case "consultaVentas":
-                    require "consultasVentas.php";
+                    require "consultaVentas.php";
                     break;
                 case "consultaDevoluciones":
-                    require "consultarDevoluciones.php";
+                    require "consultaDevoluciones.php";
                     break;
             }            
             case "PUT":

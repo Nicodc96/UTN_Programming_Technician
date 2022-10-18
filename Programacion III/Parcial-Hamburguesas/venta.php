@@ -44,16 +44,6 @@ class Venta{
         }
     }
 
-    public function GetEmail(){
-        return $this->email;
-    }
-
-    public function SetEmail($value){
-        if (!empty($value)){
-            $this->email = $value;
-        }
-    }
-
     public function GetNombre(){
         return $this->nombre;
     }
@@ -61,6 +51,16 @@ class Venta{
     public function SetNombre($value){
         if (!empty($value)){
             $this->nombre = $value;
+        }
+    }
+
+    public function GetEmail(){
+        return $this->email;
+    }
+
+    public function SetEmail($value){
+        if (!empty($value)){
+            $this->email = $value;
         }
     }
 
@@ -95,12 +95,9 @@ class Venta{
     public function SetNombreFoto(){
         $this->nombreFoto = $this->tipo . "-" . $this->nombre . "-" . explode("@", $this->email)[0] . '-' . strval($this->GetFecha());
     }
-    
+
     public function GetNombreFoto(){
-        if (!isset($this->nombreFoto) || empty($this->nombreFoto)){
-            $this->SetNombreFoto();
-            return $this->nombreFoto;
-        } else return $this->nombreFoto;  
+        return $this->nombreFoto;
     }
     
     public function GetEstado(){
@@ -111,7 +108,7 @@ class Venta{
         if (!empty($value) && is_bool($value)){
             $this->eliminado = $value;
         }
-    }
+    }    
 
     public static function RealizarVenta($venta){
         if (is_a($venta, "Venta")){
@@ -179,7 +176,6 @@ class Venta{
             return false;
         } else return move_uploaded_file($_FILES["image"]["tmp_name"], $destino);
     }
-
     public static function VentaFechaEspecifica($fecha = ""){
         if (empty($fecha) || is_null($fecha)){
            $fecha = date('Y-n-j', time() - 60 * 60 * 24);
@@ -239,7 +235,9 @@ class Venta{
     public static function ModificarVenta($numeroPedido, $emailUsuario, $nombre, $tipo, $cantidad){
         $modificacion = false;
         $arrayDeVentas = self::LeerVentasJson();
-        if (count($arrayDeVentas) > 0){
+        require_once "hamburguesa.php";
+        $hamburguesaParam = new Hamburguesa($nombre, 0.00, $tipo, 0);    
+        if (count($arrayDeVentas) > 0 && Hamburguesa::ConsultarExistencia($hamburguesaParam) == 1){
             foreach($arrayDeVentas as $ventaArray){
                 if ($ventaArray->GetPedido() == $numeroPedido && $ventaArray->GetEstado() == false){
                     $datosAuxBurger = ["nombre" => $ventaArray->GetNombre(), "tipo" => $ventaArray->GetTipo(), "cantidad" => $ventaArray->GetCantidad()];
@@ -253,9 +251,7 @@ class Venta{
             }
             if ($modificacion){
                 JSON::EscrituraJson("venta.json", $arrayDeVentas);
-                require_once "hamburguesa.php";
                 $arrayDeHamburguesas = Hamburguesa::LeerHamburguesasJSON();
-                $hamburguesaParam = new Hamburguesa($datosAuxBurger["nombre"], 0.00, $datosAuxBurger["tipo"], 0);
                 if (count($arrayDeHamburguesas) > 0){
                     foreach ($arrayDeHamburguesas as $hamburguesaArray){
                         if ($hamburguesaArray->GetTipo() == $datosAuxBurger["tipo"] && $hamburguesaArray->GetNombre() == $datosAuxBurger["nombre"]){
@@ -276,7 +272,6 @@ class Venta{
         }
         return "No se ha podido realizar la modificación.";
     }
-
     public static function BorrarVenta($numeroPedido){
         $arrayDeVentas = self::LeerVentasJson();
             for ($i = 0; $i < count($arrayDeVentas); $i++){

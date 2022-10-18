@@ -43,7 +43,8 @@ class Devolucion{
     public static function GuardarDevolucion($devolucion){
         $arrayDeDevoluciones = self::LeerDevolucionesJSON();
         array_push($arrayDeDevoluciones, $devolucion);
-        return JSON::EscrituraJson("devoluciones.json", $arrayDeDevoluciones);
+        JSON::EscrituraJson("devoluciones.json", $arrayDeDevoluciones);
+        return "Se ha registrado la devolución del producto.";
     }
 
     public static function LeerDevolucionesJSON($arrayDeDevoluciones = array()){
@@ -74,7 +75,7 @@ class Devolucion{
         }
         return $maximo;
     }
-
+    
     public static function MostrarTablaDevoluciones(){
         $arrayDeDevoluciones = self::LeerDevolucionesJSON();
         $strDevolucionesTotales = "<h4 align='center'> Devoluciones </h4>";
