@@ -13,6 +13,6 @@
     <li><b>DNI</b>: 39468894</li>
     <li><b>Legajo</b>: 109288</li>
     <li><b>Lenguage used</b>: JavaScript</li>
-    <li><b>Technologies:</b>: HTML, CSS, BootStrap, Node.js</li>
+    <li><b>Technologies:</b> HTML, CSS, BootStrap, Node.js</li>
   </ul>
 </div>
